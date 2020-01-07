@@ -1,0 +1,20 @@
+项目为springboot + mybatis
+
+集成自动生成代码功能。
+
+利用MySQL数据库，SQLyong可视化界面。
+
+jdk 1.8.0_60
+
+提供数据库备份文件，直接导入即可。
+
+提供两个链接，是我自己创建项目的过程，发布在CSDN上，可以作为参考。
+
+创建过程：https://blog.csdn.net/weixin_42685022/article/details/82215893
+
+拦截器使用：https://blog.csdn.net/weixin_42685022/article/details/82259510
+
+整个过程比较详细，代码部分是自动生成，有些生成代码没有用到，已经被我删除掉。
+
+启动项目后你可以试着访问这个路径，还有一些别的，你可以去controller中看看。
+http://localhost:8080/user/loginHtml
